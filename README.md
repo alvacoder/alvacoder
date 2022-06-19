@@ -6,8 +6,7 @@
 -->
 #### I'm Idris Adeniji; a Software Engineer, Cyber Security Expert, DevOps/DevSecOps Engineer, Tech Enthusiast, Secure/Clean Code Advocate.
 
-- 🔭 I’m currently working on building and shipping bespoke custom software solutions
-- 🌱 I’m currently learning DevOps, DevSecOps, Web 3.0
+- 🔭 I’m currently working on building, securing and shipping bespoke custom software solutions
 - 👯 I’m looking to collaborate on great ideas
 - 💬 Ask me about secure coding, cyber security, ci/cd pipelines, cloud engineering
 - 📫 How to reach me: 

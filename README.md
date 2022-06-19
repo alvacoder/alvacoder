@@ -4,7 +4,7 @@
 <!--
 **alvacoder/alvacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-#### I'm Idris Adeniji; a Software Engineer, Cyber Security Expert, aspiring DevOps/DevSecOps Engineer, Tech Enthusiast, Secure/Clean Code Advocate.
+#### I'm Idris Adeniji; a Software Engineer, Cyber Security Expert, DevOps/DevSecOps Engineer, Tech Enthusiast, Secure/Clean Code Advocate.
 
 - 🔭 I’m currently working on building and shipping bespoke custom software solutions
 - 🌱 I’m currently learning DevOps, DevSecOps, Web 3.0

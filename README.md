@@ -13,4 +13,4 @@
      - *[Instagram](https://instagram.com/alvacoder)*
      - *[LinkedIn](https://linkedin.com/in/idrisadeniji)*
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a big fan of road trips.
+- ⚡ Fun fact: My driving skills peak with an actual steering wheel, not a controller!
